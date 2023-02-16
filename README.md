@@ -1,4 +1,4 @@
-# Fruits-Game-Jquery-
+# Fruits Game(jQuery)
 
 <p>Slice the Fruits, online video game built in jQuery by @Nikala11.</p>
 <br/>
