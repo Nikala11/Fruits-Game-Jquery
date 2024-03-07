@@ -4,5 +4,6 @@
 <p>The main goal of the game is to slice as many fruits as possible and collect a lot of points, the important thing is that we have three lives in total, and keep them as long as possible.</p>
 <p>I wish you a happy game :)</p>
 
-Project Demo :
+Project Demo: https://nikala11.github.io/Slice-the-Fruits-Jquery/
+
 ![Uploading Slice-The-Fruits.png…](Images/Slice-The-Fruits.png)
